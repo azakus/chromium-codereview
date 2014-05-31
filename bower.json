@@ -14,11 +14,7 @@
   "homepage": "https://github.com/esprehn/chromium-codereview",
   "license": "MIT",
   "dependencies": {
-    "polymer": "Polymer/polymer#0.2.3",
-    "polymer-elements": "Polymer/polymer-elements#0.2.3",
-    "polymer-ui-elements": "Polymer/polymer-ui-elements#0.2.3"
-  },
-  "resolutions": {
-    "core-action-icons": "0.2.3"
+    "polymer": "Polymer/polymer#^0.3.0",
+    "polymer-ui-accordion": "Polymer/polymer-ui-accordion#^0.3.0"
   }
 }
